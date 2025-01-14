@@ -2,6 +2,6 @@
      import Todo from './Todo.svelte';
 </script>
 
-<h1>Taken Care of To do App</h1>
+<h1>Taken Care of To do Act</h1>
 
 <Todo />
